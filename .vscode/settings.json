@@ -5,12 +5,6 @@
             "driver": "SQLite",
             "name": "chinook",
             "database": "Chinook_Sqlite.sqlite"
-        },
-        {
-            "previewLimit": 50,
-            "driver": "SQLite",
-            "name": "non_usa_customers.sql",
-            "database": "non_usa_customers.sql"
         }
     ]
 }
